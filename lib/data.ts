@@ -185,6 +185,25 @@ export const beautyProducts: BeautyProduct[] = [
     imageUrl: "https://cdn.shopify.com/s/files/1/0999/6943/3890/files/OMMAGE_05.jpg?v=1787875839",
     productUrl: "https://ommage.com/products/first-base?variant=52311446716706",
   },
+  {
+    id: "ommage-lip-coat",
+    brand: "Ommage",
+    name: "Lip Coat",
+    category: "Makeup",
+    role: "Custom Packaging",
+    imageUrl: "https://cdn.shopify.com/s/files/1/0999/6943/3890/files/ommage-lip-coat-inner-lip-product-shot.jpg?v=1789836460",
+    productUrl: "https://ommage.com/products/lipstick?variant=52311447011618",
+    objectFit: "contain",
+  },
+  {
+    id: "ommage-buffer-brush",
+    brand: "Ommage",
+    name: "Buffer Brush",
+    category: "Makeup",
+    role: "Custom Packaging",
+    imageUrl: "https://cdn.shopify.com/s/files/1/0999/6943/3890/files/unspecified-3.jpg?v=1787005828",
+    productUrl: "https://ommage.com/products/better-brush?variant=52311446651170",
+  },
   // Paula's Choice
   {
     id: "paulas-choice-pro-collagen-eye-serum",
