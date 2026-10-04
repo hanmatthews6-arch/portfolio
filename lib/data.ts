@@ -97,6 +97,15 @@ export const beautyProducts: BeautyProduct[] = [
     imageUrl: "https://www.rarebeauty.com/cdn/shop/files/ECOMM-RARE-EAU-DE-PARFUM-01.jpg?v=1753218416",
     productUrl: "https://www.rarebeauty.com/products/rare-eau-de-parfum",
   },
+  {
+    id: "rare-beauty-soft-pinch-lip-oil-stick",
+    brand: "Rare Beauty",
+    name: "Soft Pinch Lip Oil Stick",
+    category: "Makeup",
+    role: "Custom Packaging",
+    imageUrl: "https://cdn.shopify.com/s/files/1/0314/1143/7703/files/ECOMM-SP-LIP-OIL-STICK-CAP-OFF-WISH.jpg?v=1782797532",
+    productUrl: "https://www.rarebeauty.com/products/soft-pinch-lip-oil-stick",
+  },
   // Kipi
   {
     id: "kipi-exfoliating-daily-cleanser",
