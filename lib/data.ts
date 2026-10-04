@@ -177,14 +177,13 @@ export const beautyProducts: BeautyProduct[] = [
   },
   // Ommage
   {
-    id: "ommage-beauty",
-    brand: "Ommage Beauty",
-    name: "Launching 2026",
-    category: "Skincare",
-    role: "Coming Soon",
-    imageUrl: "https://images.squarespace-cdn.com/content/v1/67c3fe7dd0ec997b29f3b2ee/94bc044a-fa6f-476c-8214-a71cf46ca44b/OMMAGE-Logo.png",
-    productUrl: "https://www.ommage.com/",
-    objectFit: "contain",
+    id: "ommage-first-base",
+    brand: "Ommage",
+    name: "First Base",
+    category: "Makeup",
+    role: "Custom Packaging",
+    imageUrl: "https://cdn.shopify.com/s/files/1/0999/6943/3890/files/OMMAGE_05.jpg?v=1787875839",
+    productUrl: "https://ommage.com/products/first-base?variant=52311446716706",
   },
   // Paula's Choice
   {
